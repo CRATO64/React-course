@@ -37,7 +37,7 @@ function App() {
       <br />
       <button onClick={removeValue}>Remove value</button>
 
-      <h4>Footer: {counter}</h4>
+      <p>Footer: {counter}</p>
     </>
   )
 }
